@@ -54,3 +54,8 @@ Please cite the following article if you use the SympTEMIST evaluation library o
   booktitle    = {Proceedings of the BioCreative VIII Challenge and Workshop: Curation and Evaluation in the era of Generative Models},
   year         = 2023
 }
+
+## Contact
+If you have any questions or suggestions, please contact us at:
+
+- Salvador Lima-López (<salvador [dot] limalopez [at] gmail [dot] com>)
